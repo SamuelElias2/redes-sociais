@@ -1,0 +1,10 @@
+async function vizualizarInformacoesGlobais() {
+  const res await fetch(url)
+  const dades await res.json()
+  console.log(dados);
+  const paragrafe document.createElement('p')
+  paragrafo.classList.add('graficos-container_texto')
+  paragrafo.innerHTML = "Você sabia que o mundo tem sidados.total pessoas_mundo) de pessoas e
+  que aproximadamente sidados.total pessoas_conectadas) estão conectadas em alguma rede social e passan en médio $(dados.tempo_medio) horas conectadas."
+  console.log(paragrafo)
+  const container document.getE
